@@ -21,4 +21,4 @@ The server will be available at `http://localhost:8787`. You can schedule a ping
 To deploy the service to Cloudflare Workers, run `npm run deploy`.
 
 ## License
-This project is license under the GNU General Public License v2.0. You can read the license in the `LICENSE` file.
+This project is licensed under the GNU General Public License v2.0. You can read the license in the `LICENSE` file.
