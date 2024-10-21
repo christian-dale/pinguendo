@@ -1,4 +1,4 @@
-Pinguendo pings your website quickly and easily. This is a simple Cloudflare Workers service that pings your website 5 every minutes. It's a simple way to keep your website alive and prevent it from going to sleep.
+Pinguendo pings your website quickly and easily. This is a simple Cloudflare Workers service that pings your website every 5 minutes. It's a simple way to prevent you website from cold starts and keep it running smoothly.
 
 Ping! 🏓 Pong! 🏓
 
