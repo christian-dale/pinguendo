@@ -1,0 +1,13 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "pinguendo"
+main = "src/index.ts"
+compatibility_date = "2024-10-18"
+
+[vars]
+PING_TARGET = "http://localhost:8787"
+
+[triggers]
+crons = ["* * * * *"] # * * * * * = run every minute
+
+[observability]
+enabled = true
